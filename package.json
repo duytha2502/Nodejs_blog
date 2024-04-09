@@ -1,0 +1,32 @@
+{
+  "name": "demo",
+  "version": "1.0.0",
+  "description": "Duy demo",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon --inspect index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/duytha2502/Nodejs_blog.git"
+  },
+  "keywords": [
+    "Duy",
+    "blog",
+    "demo",
+    "nodejs"
+  ],
+  "author": "duythai",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/duytha2502/Nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/duytha2502/Nodejs_blog#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
